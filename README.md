@@ -48,6 +48,7 @@ The dashboard includes:
 | `Dashboard.png` | Screenshot of the Power BI dashboard |
 | `Superstore_Analysis.sql` | SQL queries used for the analysis |
 | `Superstore Dataset.csv` | Dataset used |
+| `Superstore_Sales_Data_Analysis.pbix` | Power BI dashdoard |
 
 ## Tools
 
