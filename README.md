@@ -2,8 +2,7 @@
 
 An end-to-end sales analysis of the Superstore dataset. I used **SQL** to clean, query, and analyze the data, and **Power BI** to build an interactive dashboard that shows sales trends, profitability patterns, and key business KPIs.
 
-![Superstore Power BI Dashboard](<img width="1358" height="638" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/b2be725b-5be4-4177-8bf1-6aef7fef9d61" />
-)
+<img width="1358" height="638" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/b2be725b-5be4-4177-8bf1-6aef7fef9d61" />
 
 ## Business Questions
 
